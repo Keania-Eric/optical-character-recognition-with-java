@@ -18,3 +18,7 @@ Open the folder in any java IDE such as Netbean, Eclispe etc.
 Run the project.
 
 And thats it.
+
+## Test images
+
+The eurotext.bmp file at the root directory is the file you can use for testing.
